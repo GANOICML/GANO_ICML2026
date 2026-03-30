@@ -1,2 +1,6 @@
 # GANO_ICML2026
-for rebuttal
+![image-20260330231006208](figures\image-20260330231006208.png)
+
+![image-20260330231039049](figures\image-20260330231039049.png)
+
+![image-20260330231116442](figures\image-20260330231116442.png)
