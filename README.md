@@ -1,6 +1,6 @@
 # GANO_ICML2026
-![image-20260330231006208](figures\1.png)
+![1](.\figures\1.png)
 
-![image-20260330231039049](figures\2.png)
+![2](.\figures\2.png)
 
-![image-20260330231116442](figures\3.png)
+![3](.\figures\3.png)
